@@ -1,0 +1,30 @@
+{
+  "employees":[
+    {
+      "employee_ID":1,
+      "employee_details":{
+        "name":"Praveen",
+        "age":22,
+        "attendance":true,
+        "contact_details":{
+          "Mobile_number":"+918825817053",
+          "Email":"praveen.t2516@gmail.com",
+          "Address":"11A,Thendral nagar west main road Thirumullaivoyal,chennai-600062"
+        }
+      }
+    },
+    {
+      "employee_ID":2,
+      "employee_details":{
+        "name":"Thirutu",
+        "age":22,
+        "attendance":false,
+        "contact_details":{
+          "phone_number":"+919941648450",
+          "email":"techgamertamizhan@gmail.com",
+          "address":"NO.3 Andalamman kovil street, Thiruverkadu"
+        }
+      }
+    }
+  ]
+}
